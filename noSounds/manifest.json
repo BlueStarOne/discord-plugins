@@ -1,0 +1,14 @@
+{
+  "name": "noSounds",
+  "description": "Mute all UI sounds",
+  "authors": [
+    {
+      "name": "Blue",
+      "id": "1006897949822959696"
+    }
+  ],
+  "main": "code/main.js",
+  "vendetta": {
+    "icon": ""
+  }
+} 
